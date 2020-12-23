@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.spinner {
+    position: absolute;
+    color: transparent !important;
+    pointer-events: none;
+}
